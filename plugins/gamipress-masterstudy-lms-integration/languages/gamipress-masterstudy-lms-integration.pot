@@ -1,0 +1,134 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gamipress MasterStudy LMS Integration\n"
+"Report-Msgid-Bugs-To: https://gamipress.com/\n"
+"POT-Creation-Date: 2019-12-06 09:59+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://gamipress.com/)\n"
+"Language-Team: GamiPress <contact@gamipress.com>\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: gamipress-masterstudy-lms.php:132
+#, php-format
+msgid "GamiPress - MasterStudy LMS integration requires %s and %s in order to work. Please install and activate them."
+msgstr ""
+
+#: includes/admin.php:22
+msgid "MasterStudy LMS integration"
+msgstr ""
+
+#: includes/triggers.php:22
+msgid "MasterStudy LMS"
+msgstr ""
+
+#: includes/triggers.php:24
+msgid "Complete a quiz"
+msgstr ""
+
+#: includes/triggers.php:25
+msgid "Complete a specific quiz"
+msgstr ""
+
+#: includes/triggers.php:26
+msgid "Pass a quiz"
+msgstr ""
+
+#: includes/triggers.php:27
+msgid "Pass a specific quiz"
+msgstr ""
+
+#: includes/triggers.php:28
+msgid "Fail a quiz"
+msgstr ""
+
+#: includes/triggers.php:29
+msgid "Fail a specific quiz"
+msgstr ""
+
+#: includes/triggers.php:31
+msgid "Complete a lesson"
+msgstr ""
+
+#: includes/triggers.php:32
+msgid "Complete a specific lesson"
+msgstr ""
+
+#: includes/triggers.php:33
+msgid "Complete a lesson of a specific"
+msgstr ""
+
+#: includes/triggers.php:35
+msgid "Enroll any course"
+msgstr ""
+
+#: includes/triggers.php:36
+msgid "Enroll a specific course"
+msgstr ""
+
+#: includes/triggers.php:37
+msgid "Complete a course"
+msgstr ""
+
+#: includes/triggers.php:38
+msgid "Complete a specific course"
+msgstr ""
+
+#: includes/triggers.php:39
+msgid "Download a course certificate"
+msgstr ""
+
+#: includes/triggers.php:40
+msgid "Download a specific course certificate"
+msgstr ""
+
+#: includes/triggers.php:85
+#, php-format
+msgid "Complete the quiz %s"
+msgstr ""
+
+#: includes/triggers.php:86
+#, php-format
+msgid "Pass the quiz %s"
+msgstr ""
+
+#: includes/triggers.php:87
+#, php-format
+msgid "Fail the quiz %s"
+msgstr ""
+
+#: includes/triggers.php:89
+#, php-format
+msgid "Complete the lesson %s"
+msgstr ""
+
+#: includes/triggers.php:90
+#, php-format
+msgid "Complete a lesson of the course %s"
+msgstr ""
+
+#: includes/triggers.php:92
+#, php-format
+msgid "Enroll the course %s"
+msgstr ""
+
+#: includes/triggers.php:93
+#, php-format
+msgid "Complete the course %s"
+msgstr ""
+
+#: includes/triggers.php:94
+#, php-format
+msgid "Download the certificate of the course %s"
+msgstr ""
